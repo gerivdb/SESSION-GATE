@@ -1,0 +1,4 @@
+*.json
+last_*.json
+.clasprc.json
+*.log
